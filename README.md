@@ -100,7 +100,7 @@ Flask Dashboard
 ## 5. Repository Structure
 
 ```text
-real-time-intrusion-detection-system/
+Real-Time-AI-Intrusion-Detection-using-Conv1D-BiLSTM/
 |-- realtime_ids.py               # Main real-time live IDS engine
 |-- dashboard.py                  # Flask SOC web dashboard
 |-- pcap_replay.py                # Replay packets from .pcap files
@@ -129,8 +129,8 @@ real-time-intrusion-detection-system/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/dhruv-0512/real-time-intrusion-detection-system.git
-   cd real-time-intrusion-detection-system
+   git clone https://github.com/dhruv-0512/Real-Time-AI-Intrusion-Detection-using-Conv1D-BiLSTM.git
+   cd Real-Time-AI-Intrusion-Detection-using-Conv1D-BiLSTM
    ```
 
 2. **Install Dependencies**
