@@ -4,10 +4,7 @@
 
 **BiLSTM-powered network threat detection.**
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Flask](https://img.shields.io/badge/Flask-Dashboard-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+**Python 3.8+** | **TensorFlow 2.12+** | **Flask Dashboard** | **MIT License**
 
 *An end-to-end intrusion detection prototype using Conv1D + BiLSTM to classify network traffic across 5 threat categories in real time.*
 
