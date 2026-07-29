@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+logs/ids_alerts.jsonl
+logs/ids_log.txt
+ids_alerts.jsonl
+ids_log.txt
+
+.DS_Store
+Thumbs.db
